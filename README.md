@@ -1,5 +1,5 @@
-### Bem vindo ! 
-## Eu sou Davidson 😎 
+### Bem vindo 😎😎 !
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davidsontavares)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidson.andre1)
@@ -18,5 +18,11 @@
 <img aligne="center"alt= "Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img aligne="center"alt= "Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img aligne="center"alt= "MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<hr/>
+
+<div>
+<img aligne="center"alt= "Estacio" width="200px" height="100px" src="https://ebdicorp.com.br/wp-content/uploads/2023/05/Estacio.png">
+<img aligne="center"alt= "Udemy" width="200px" height="100px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+<img aligne="center"alt= "Pitágoras" width="200px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RPw8qhm-fNCtp2OcRqQ-3NlhmnSvSSBttQ&s">
 
 </div>
