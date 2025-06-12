@@ -5,9 +5,13 @@
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidson.andre1)
 
 
+![snake gif](https://github.com/Davidson-Tavares/Davidson-Tavares/blob/output/github-contribution-grid-snake.svg)
+
 ![Davidson GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidson-Tavares&show_icons=true&theme=dark)
 
-#
+#]
+
+
 <div style="display : inline_block"><br />
 
 <img aligne="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
