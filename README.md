@@ -26,8 +26,7 @@
 <hr/>
 
 <div>
-
-<img align="center"alt= "Estacio" width="200px" height="100px" src="https://wordpress-cms-ead-prod-assets.quero.space/uploads/2017/11/estacio.png">
+<img align="center"alt= "Estacio" width="200px" height="100px" src="#">
 <img align="center"alt= "Udemy" width="200px" height="100px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 <img align="center"alt= "Pitágoras" width="200px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RPw8qhm-fNCtp2OcRqQ-3NlhmnSvSSBttQ&s">
 
