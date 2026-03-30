@@ -24,7 +24,4 @@
 
 <div>
 
-< img aligne="center"alt= "Udemy" width="200px" height="100px" src="" >
-
-
 </div>
