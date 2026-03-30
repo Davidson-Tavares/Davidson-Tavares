@@ -24,7 +24,7 @@
 
 <div>
 
-<img align="center"alt= "Udemy" width="200px" height="100px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-<img align="center"alt= "Pitágoras" width="200px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RPw8qhm-fNCtp2OcRqQ-3NlhmnSvSSBttQ&s">
+< img aligne="center"alt= "Udemy" width="200px" height="100px" src="" >
+
 
 </div>
