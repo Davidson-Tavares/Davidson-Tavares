@@ -11,16 +11,17 @@ Fui selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**, que 
 
 ---
 
-## 🌐 Redes Sociais  
+ Redes Sociais  
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px"> LinkedIn](https://www.linkedin.com/in/davidsontavares/)  
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20px"> Instagram](https://www.instagram.com/davidson.andre1)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"> ](https://www.linkedin.com/in/davidsontavares/)  
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px"> ](https://www.instagram.com/davidson.andre1)
 
 ---
 
 ## 📊 Minhas estatísticas  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson-Tavares&layout=compact&theme=dark)
+
 
 ---
 
