@@ -13,16 +13,15 @@ Fui selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**, que 
 
  Redes Sociais  
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"> ](https://www.linkedin.com/in/davidsontavares/)  
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px"> ](https://www.instagram.com/davidson.andre1)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px"> ](https://www.instagram.com/davidson.andre1) 
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"> ](https://www.linkedin.com/in/davidsontavares/)
+
 
 ---
 
 ## 📊 Minhas estatísticas  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson-Tavares&layout=compact&theme=dark)
-
-
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidson-tavares&theme=github_dark)
 ---
 
 ## 🚀 Tecnologias que utilizo atualmente
@@ -31,9 +30,9 @@ Fui selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**, que 
 
 <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br/>
 
+<img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 <img align="center" alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -51,7 +50,7 @@ Fui selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**, que 
 - 🎓 Selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**  
 - 💻 Focado em **Next.js, TypeScript, Prisma, PostgreSQL e shadcn/ui**  
 - 🚀 Sempre criando projetos para evoluir minhas habilidades  
-- 🌙 Dark mode lover  
+
 
 ---
 
