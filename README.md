@@ -18,12 +18,6 @@ Fui selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**, que 
 
 
 ---
-
-## 📊 Minhas estatísticas  
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidson-tavares&theme=github_dark)
----
-
 ## 🚀 Tecnologias que utilizo atualmente
 
 <div style="display: inline_block"><br>
