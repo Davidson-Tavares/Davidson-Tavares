@@ -1,27 +1,7 @@
 <h1>
-  <span class="wave">👋</span> Bem-vindo ao meu GitHub! 😎
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Bem-vindo ao meu GitHub! 😎
 </h1>
-
-<style>
-.wave {
-  animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 Sou Davidson, desenvolvedor web apaixonado por criar interfaces modernas, rápidas e funcionais.  
 Sou formado em **Administração**, fiz curso de **inglês na Wizard** e iniciei a faculdade de **Análise e Desenvolvimento de Sistemas**, que precisei interromper no 2º período ao me mudar para a **Espanha**.
