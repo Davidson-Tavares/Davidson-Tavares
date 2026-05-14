@@ -7,7 +7,7 @@ Sou Davidson, desenvolvedor web focado em criar interfaces modernas, rápidas e 
 Sou formado em **Administração**, fiz curso de **inglês na Wizard** e iniciei a faculdade de **Análise e Desenvolvimento de Sistemas**, que precisei interromper no 2º período ao me mudar para a **Espanha**.
 
 Atualmente moro na Catalunha, possuo **Espanhol nível B1/B2**, e sigo estudando programação diariamente.  
-Fui selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**, que começo no dia **25 deste mês**, e estou muito motivado para evoluir ainda mais como dev.
+Fui selecionado para o **Santander Bootcamp 2026 – Desenvolvimento Web**,  estou muito motivado para evoluir ainda mais como dev.
 
 ---
 
